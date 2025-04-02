@@ -13,3 +13,11 @@ gameloop is like a tycoon: you start with a monster, use them to fight+capture m
 level bar
 
 leafasaur
+
+monsters have 1 of 6 different types
+- Fire (strong against Plant & Dark)
+- Plant (strong against Water & Dark)
+- Water (strong against Fire & Dark)
+- Light (strong against Fire, Plant, Water)
+- Dark (strong against Light)
+- Basic (not strong or weak against anything)
