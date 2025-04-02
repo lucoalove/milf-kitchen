@@ -1,6 +1,11 @@
 # milf kitchen
 
-cooking sim, tycoon gameloop. buy ingredients, cook food, sell food for money, repeat. unlock recipes to customize your menu. make friends with and employ milfs to get money multiplier. short ~1 hour experience.
+short ~20m cooking sim story game
+
+- cook food for and chat with customer until she is full
+- offer her a job
+- unlock new recipes
+- repeat for next customer
 
 2D game, ingredients have physics, when held they slowly spring to your mouse (with damp). nice pixel aesthetic since that's easy. also custom mouse cursor
 
