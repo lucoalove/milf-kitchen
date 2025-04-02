@@ -1,23 +1,5 @@
-# working title monsters
+# milf kitchen
 
-monster-taming game where you find monsters in the world but the further out you go the stronger they are
+cooking sim, tycoon gameloop. buy ingredients, cook food, sell food for money, repeat. unlock recipes to customize your menu. make friends with and employ milfs to get money multiplier. short ~1 hour experience.
 
-and they're 2D but in a 3D world (like paper mario style) and most of them are booba
-
-also monsters don't faint, instead they become yours when you defeat them
-
-the monsters can come in different sizes, so you can have short milfmon or tall milfmon or bug-sized milfmon or giantess milfmon
-
-gameloop is like a tycoon: you start with a monster, use them to fight+capture more monsters, sell those monsters to the merchant to get bucks, use bucks for fun stuff
-
-level bar
-
-leafasaur
-
-monsters have 1 of 6 different types
-- Fire (strong against Plant & Dark)
-- Plant (strong against Water & Dark)
-- Water (strong against Fire & Dark)
-- Light (strong against Fire, Plant, Water)
-- Dark (strong against Light)
-- Basic (not strong or weak against anything)
+!(AI milf for reference)[https://images-ng.pixai.art/images/orig/37adef77-92ab-42dc-bb79-dc9937662306]
