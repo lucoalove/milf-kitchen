@@ -8,4 +8,4 @@ unique character designs that aren't afraid to be a little ugly to be appealing/
 
 can be played in browser (I know itch lets you do that for godot but idk how to set it up)
 
-![AI milf for reference](https://images-ng.pixai.art/images/orig/37adef77-92ab-42dc-bb79-dc9937662306)
+![mockup](mockup.png)
