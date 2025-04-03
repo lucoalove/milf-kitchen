@@ -13,6 +13,8 @@ unique character designs that aren't afraid to be a little ugly to be appealing/
 
 can be played in browser (I know itch lets you do that for godot but idk how to set it up)
 
+shelf/pantry under the counter which you can scroll through to pick out ingredients, which you bring to the countertop to assemble, then give to the customer on the right. it has to match their order exactly, otherwise you can just trash it. every customer will ask for "surprise me" on their last order
+
 ![mockup](mockup.png)
 
 ## Music
