@@ -1,3 +1,13 @@
-[gd_scene format=3 uid="uid://cccxolaqh7x6m"]
+[gd_scene load_steps=3 format=3 uid="uid://cccxolaqh7x6m"]
+
+[ext_resource type="Texture2D" uid="uid://bk5y16ecx3gil" path="res://mockup.png" id="1_pq8q7"]
+[ext_resource type="Script" uid="uid://cgp3fb3u2xmb6" path="res://camera_lock_width.gd" id="1_pyidc"]
 
 [node name="Root" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+script = ExtResource("1_pyidc")
+
+[node name="Mockup" type="Sprite2D" parent="."]
+position = Vector2(-13, -1)
+texture = ExtResource("1_pq8q7")
