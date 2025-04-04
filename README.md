@@ -15,6 +15,10 @@ can be played in browser (I know itch lets you do that for godot but idk how to 
 
 shelf/pantry under the counter which you can scroll through to pick out ingredients, which you bring to the countertop to assemble, then give to the customer on the right. it has to match their order exactly, otherwise you can just trash it. every customer will ask for "surprise me" on their last order
 
+need to change mouse cursor based on element hover state AND whether mouse is down or not (latter we must handle ourselves) for stuff like arrow-click and grab
+
+have character walk in programmatically with a vertical bob. they slowly bob while idling, if you click them the bob speed goes high then drifts back down
+
 ![mockup](mockup.png)
 
 ## Music
